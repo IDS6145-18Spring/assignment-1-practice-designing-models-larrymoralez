@@ -18,7 +18,7 @@ A smart city leverages technology to engender sustainable development and thereb
 
 * [**Object Diagram**](images/ParkObjectDiagram1.png)
 * [**Class Diagram**](images/ParkClassDiagram.png)
-* [**User case Diagram**](images/ParkUseCaseDiagram.png)
+* [**User Case Diagram**](images/ParkUseCaseDiagram.png)
 
 ## Smart City (My Problem) Simulation
 
@@ -26,7 +26,7 @@ I have chosen to use AnyLogic to conduct an agent-based simulation of the decay 
 
 
 ## Smart City (My Problem) Model
-Each file for my [**Code template**](code/README.md) can be found here.
+Each file for my [**Code Template**](code/README.md) can be found here.
 
 ## **P**ortable **O**rganic **T**rouble-free **S**elf-watering System (**POTS**) Model
-Here I provide [**object**](https://github.com/IDS6145-18Spring/assignment-1-practice-designing-models-larrymoralez/blob/master/images/Potsobjectdiagram.png) and  [**class**](https://github.com/IDS6145-18Spring/assignment-1-practice-designing-models-larrymoralez/blob/master/images/Potsclassdiagram.png) diagrams of the **P**ortable **O**rganic **T**rouble-free **S**elf-watering System (**POTS**) Model and provide a source code template.
+Here I provide [**Object**](https://github.com/IDS6145-18Spring/assignment-1-practice-designing-models-larrymoralez/blob/master/images/Potsobjectdiagram.png) and  [**Class**](https://github.com/IDS6145-18Spring/assignment-1-practice-designing-models-larrymoralez/blob/master/images/Potsclassdiagram.png) diagrams of the **P**ortable **O**rganic **T**rouble-free **S**elf-watering System (**POTS**) Model and provide a source code template.
