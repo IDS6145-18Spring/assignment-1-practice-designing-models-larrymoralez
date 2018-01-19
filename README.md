@@ -1,36 +1,32 @@
-# Assignment1 - Practice Designing Models (Template)
-(remove: **text between brackets to be removed**)
+# Assignment1 - Practice Designing Models
 
-> * Participant name: (your name)
-> * Project Title: (Title of the problem you are looking and modeling)
-
-## General Introduction
-
-A **smart city** is an urban area that uses different types of electronic data collection sensors to supply information which is used to manage assets and resources efficiently.
+Larry A. Moralez
+Using Smart Technology to Improve Dog Park Quality
 
 ![Image of Smart City](images/smartcity.png)
 
-(remove: States your motivation clearly: why is it important / interesting to solve this problem?)
-(remove: Add real-world examples, if any)
-(remove: Put the problem into a historical context, from what does it originate? Are there already some proposed solutions?)
+Having a clean and healthy dog park for city dwellers to frequent improves the quality of life for owners and their pets.
+For instance, the Lake Eola dog park near my home is frequently turned to dirt as people and dogs visit. The dogs often become filthy along with their owners, and the dust from the play is often times thrown into the air and getting into the eyes of visitors. This is incredibly painful, especially for children.
+It does not appear that the city has any means to control the destruction of the grass at the park. Instead, they wait until the enough complaints are filed to send a mainenance crew to assess the issue. Large areas of the park are then roped off (which dogs don't typically obey) while it is being fixed.
 
 ## Requirements (Experimental Design)
 
-(remove: You should start by specifying a set of requirements. I specified a topic Smart Cities but what exactly does that mean-  you should practice formulating your own set of requirements and an experiment. Define a hypothesis of a problem cities face and how a smart city would possibly help alleviate this issue. This helps you think about your problem communication and system objectives inputs, functions, and outputs - they should be clearly specified.)
+A smart city leverages technology to engender sustainable development and thereby enriches the lives of its citzens. My city currently faces an issue of chronic destructing of its dog park grass. If the city were to employ sensor technology to track the activity of the park goers and their pets, they could more accurately predict the grass destruction and implement cost saving preventitive measures rather than long and arduous repairs.
 
 ## Smart City (My Problem) Model
 
-(remove: add a high-level overview of your model, the part below should link to the model directory markdown files)
-(remove: Look at the [**Object Diagram**](model/object_diagram.md) for how to structure this part of Part 2 for each diagram. Only the Object diagram has the template, the rest are blank. )
-
-* [**Object Diagram**](model/object_diagram.md) - provides the high level overview of components
-* [**Class Diagram**](model/class_diagram.md) - provides details of (what are you providing details of)
-* [**Behavior Diagram**](model/behavior_diagram.md) - provides details of (what are you providing details of)
-* [**Agent / User case** (if appropriate)](model/agent_usecase_diagram.md) - provides details of (what are you providing details of)
+* [**Object Diagram**](model/object_diagram.md)
+* !
+* [**Class Diagram**](model/class_diagram.md)
+* !
+* [**Behavior Diagram**](model/behavior_diagram.md) 
+![]
+* [**Agent / User case** (if appropriate)](model/agent_usecase_diagram.md)
+* 
 
 ## Smart City (My Problem) Simulation
 
-(remove: for part 3 add two to three sentences here and link the [**(your own name)**](model/README.md) file in the analysis folder - which describe how you would simulate this - type of simulation, rough details -inputs, outputs - how it will help you analyze your experimental hypothesis, or nullify your null hypothesis.)
+Write sentances explaining type of simulaiton and how to do it. [**Analysis**](copy paste edited analysis file from Git Hub) file in the analysis folder - which describe how you would simulate this - type of simulation, rough details -inputs, outputs - how it will help you analyze your experimental hypothesis, or nullify your null hypothesis.)
 
 
 ## Smart City (My Problem) Model
