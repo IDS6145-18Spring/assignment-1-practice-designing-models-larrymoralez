@@ -19,8 +19,7 @@ A smart city leverages technology to engender sustainable development and thereb
 * !
 * [**Class Diagram**](model/class_diagram.md)
 * !
-* [**Behavior Diagram**](model/behavior_diagram.md) 
-![]
+* [**Behavior Diagram**](assignment-1-practice-designing-models-larrymoralez/images/ParkObjectDiagram1.png) 
 * [**Agent / User case** (if appropriate)](model/agent_usecase_diagram.md)
 * 
 
