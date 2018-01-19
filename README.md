@@ -21,11 +21,11 @@ A smart city leverages technology to engender sustainable development and thereb
 
 ## Smart City (My Problem) Simulation
 
-Write sentances explaining type of simulaiton and how to do it. [**Analysis**](copy paste edited analysis file from Git Hub) file in the analysis folder - which describe how you would simulate this - type of simulation, rough details -inputs, outputs - how it will help you analyze your experimental hypothesis, or nullify your null hypothesis.)
+I have chosen to use AnyLogic to conduct an agent-based simulation of the decay and growth of dog park grass in the cities major dog parks. Additional information can be found in my [**Analysis**](https://github.com/IDS6145-18Spring/assignment-1-practice-designing-models-larrymoralez/blob/master/analysis/README.md) file in the analysis folder.
 
 
 ## Smart City (My Problem) Model
 Each file for my [**Code template**](code/README.md) can be found here.
 
 ## **P**ortable **O**rganic **T**rouble-free **S**elf-watering System (**POTS**) Model
-Here I provide [**object and diagrams**](code/POTS_system/README.md) of the **P**ortable **O**rganic **T**rouble-free **S**elf-watering System (**POTS**) Model and provide a source code template.
+Here I provide [**object**](https://github.com/IDS6145-18Spring/assignment-1-practice-designing-models-larrymoralez/blob/master/images/Potsobjectdiagram.png) and  [**class**](https://github.com/IDS6145-18Spring/assignment-1-practice-designing-models-larrymoralez/blob/master/images/Potsclassdiagram.png) diagrams of the **P**ortable **O**rganic **T**rouble-free **S**elf-watering System (**POTS**) Model and provide a source code template.
