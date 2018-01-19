@@ -16,12 +16,8 @@ A smart city leverages technology to engender sustainable development and thereb
 ## Smart City (My Problem) Model
 
 * [**Object Diagram**](images/ParkObjectDiagram1.png)
-* !
-* [**Class Diagram**](model/class_diagram.md)
-* !
-* [**Behavior Diagram**]() 
-* [**Agent / User case** (if appropriate)](model/agent_usecase_diagram.md)
-* 
+* [**Class Diagram**](images/ParkClassDiagram.png)
+* [**User case Diagram**](images/ParkUseCaseDiagram.png)
 
 ## Smart City (My Problem) Simulation
 
