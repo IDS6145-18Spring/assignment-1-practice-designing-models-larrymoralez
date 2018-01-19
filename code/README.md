@@ -1,10 +1,9 @@
 ## Smart City (My Problem) Model
 
-Insert links to each peice of code here. Include brief descriptions.
-
-[**Baldwinpark**] (link)
-[**Baldwinpark**]
-[**Baldwinpark**]
-[**Baldwinpark**]
+[**Park Class**](code/Park.py)
+[**Dog Park Class**]
+[**Lake Eola Dog Park Instantiation**]
+[**Baldwin Dog Park Instantiation**]
+[**Colonial Park Instantiation**]
 
 
